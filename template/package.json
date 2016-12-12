@@ -24,7 +24,7 @@
       "!**/._*",
       "!**/{.DS_Store,.git,.hg,.svn,CVS,RCS,SCCS,__pycache__,thumbs.db,.gitignore,.gitattributes,.editorconfig,.flowconfig,.yarn-metadata.json,.idea,appveyor.yml,.travis.yml,circle.yml,npm-debug.log,.nyc_output,yarn.lock,.yarn-integrity}"
     ],
-    "icon": "build/logi.icns",
+    "icon": "build/logo.icns",
     "iconSize": "80",
     "nsis": {
       "language": 2052
